@@ -1,0 +1,3 @@
+Base integration with https://www.onlinepbx.ru/[onlinePBX].
+
+fill link:src/main/resources/auth.properties[auth.properties] before use.
